@@ -15,20 +15,20 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  fC4iC3y9SiU6Piwcz_WPuELkMeGSvAptiaKL5wDUq9c # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Xiangyu Shi"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  location         : "Illinois, United States of America"
+  employer         : "Northwestern University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fAX3sRMAAAAJ"
+  email            : "xiangyushi2029@u.northwestern.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
