@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangyu Shi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Northwestern University"
   location         : "Illinois, United States of America"
-  employer         : "Northwestern University"
+  employer         : # "Northwestern University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fAX3sRMAAAAJ"
   email            : "xiangyushi2029@u.northwestern.edu"
