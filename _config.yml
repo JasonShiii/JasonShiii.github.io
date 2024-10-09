@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiangyu Shi's Academic Homepage"
-description              : "This is an academic homepage of Xiangyu Shi. "
+description              : "Ph.D. in computer engineering, ECE Dept. Cyber-physical systems, ML applications and security."
 repository               : "JasonShiii/JasonShiii.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : http://linkedin.com/in/xiangyu-shi-127aa1281
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
