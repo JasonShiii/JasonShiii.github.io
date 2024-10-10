@@ -46,7 +46,8 @@ My research interests broadly lie in Cyber-Physical Systems (CPS), ML Applicatio
 -->
 # 🎖 Honors and Awards
 - *2024:* Computer Engineering Ph.D. Fellowship (NU)
-- *2022:* First Price Scholarship of Zhejiang University (top %3) 
+- *2022:* First Price Scholarship of Zhejiang University (top %3)
+- *2022:* Cen Kefa First Price Scholarship of Zhejiang University (top %0.5)
 - *2021:* 2nd Prize, Zhejiang Province Physics Innovation Contest
 
 # 📖 Educations
