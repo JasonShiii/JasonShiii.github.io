@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangyu Shi"
   avatar           : "images/profile_square.png"
-  bio              : "Northwestern University"
+  bio              : # "Northwestern University"
   location         : "Evanston, IL, USA"
   employer         : # "Northwestern University"
   pubmed           : 
