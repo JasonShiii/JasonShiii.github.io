@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiangyu Shi's Academic Homepage"
-description              : "Ph.D. Candidate at Northwestern University, ECE Dept."
+description              : #"Ph.D. Candidate at Northwestern University, ECE Dept."
 repository               : "JasonShiii/JasonShiii.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangyu Shi"
   avatar           : "images/profile_square.png"
-  bio              : # "Northwestern University"
+  bio              : "Ph.D. Candidate at Northwestern University, ECE Dept."
   location         : "Evanston, IL, USA"
   employer         : # "Northwestern University"
   pubmed           : 
