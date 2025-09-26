@@ -19,8 +19,7 @@ redirect_from:
 
 This is Xiangyu Shi. I am a first-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
-My research interests broadly lie in Cyber-Physical Systems (CPS), ML Applications & Security. Currently, I am still in the exploration stage to determine my research focus. 
-
+My research interests broadly lie in Cyber-Physical Systems (CPS), Large Language Model (LLM) Foundation Model Based Embodied System.
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
