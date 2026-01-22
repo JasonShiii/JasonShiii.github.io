@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Xiangyu Shi. I am a second-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. I am currently seeking research internships for Summer 2026, with a focus on foundation models (including LLMs and VLMs) for embodied agents and interactive systems. Feel free to reach out if there is a potential fit.
+This is Xiangyu Shi. I am a second-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. 
+
+💼 *I am currently seeking research internships for Summer 2026, with a focus on foundation models (including LLMs and VLMs) for embodied agents and interactive systems. Feel free to reach out if there is a potential fit.*
 
 My research interests broadly lie in foundation models (including LLMs and VLMs) for embodied agents and cyber-physical systems (CPS), with emphasis on safety evaluation, CAD/CAM automation, formal verification, and reinforcement learning for real-world deployment.
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
@@ -32,7 +34,7 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2026 (Accepted)</div><img src='images/STEP-LLM_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models]
+**STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models**
 
 **Xiangyu Shi**, Junyang Ding, Xu Zhao, Sinong Zhan, Payal Mohapatra, Daniel Quispe, Kojo Welbeck, Jian Cao, Wei Chen, Ping Guo, Qi Zhu
 
@@ -43,7 +45,6 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 -->
 [Paper](http://arxiv.org/abs/2601.12641) \| [Code](https://github.com/JasonShii/STEP-LLM)
 
-- Structured generation pipeline for manufacturable STEP CAD models from natural language.
 </div>
 </div>
 
