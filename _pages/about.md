@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Xiangyu Shi. I am a first-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
+This is Xiangyu Shi. I am a second-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. I am currently seeking research internships for Summer 2026, with a focus on foundation models (including LLMs and VLMs) for embodied agents and interactive systems. Feel free to reach out if there is a potential fit.
 
-My research interests broadly lie in Cyber-Physical Systems (CPS), Large Language Model (LLM) Foundation Model Based Embodied System.
+My research interests broadly lie in foundation models (including LLMs and VLMs) for embodied agents and cyber-physical systems (CPS), with emphasis on safety evaluation, CAD/CAM automation, formal verification, and reinforcement learning for real-world deployment.
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
@@ -28,21 +28,26 @@ My research interests broadly lie in Cyber-Physical Systems (CPS), Large Languag
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2026 (Accepted)</div><img src='images/STEP-LLM_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiangyu Shi**, Junyang Ding, Xu Zhao, Sinong Zhan, Payal Mohapatra, Daniel Quispe, Kojo Welbeck, Jian Cao, Wei Chen, Ping Guo, Qi Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!---[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+[Paper](http://arxiv.org/abs/2601.12641) \| [Code](https://github.com/JasonShii/STEP-LLM)
+
+- Structured generation pipeline for manufacturable STEP CAD models from natural language.
+</div>
+</div>
+
+  
 # 🎖 Honors and Awards
 - *2024:* Computer Engineering Ph.D. Fellowship (NU)
 - *2022:* First Price Scholarship of Zhejiang University (top %3)
