@@ -19,9 +19,10 @@ redirect_from:
 
 This is Xiangyu Shi. I am a second-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. 
 
+My research interests broadly lie in foundation models (including LLMs and VLMs) for embodied agents and cyber-physical systems (CPS), with emphasis on safety evaluation, CAD/CAM automation, formal verification, and reinforcement learning for real-world deployment.
+
 💼 *I am currently seeking research internships for Summer 2026, with a focus on foundation models (including LLMs and VLMs) for embodied agents and interactive systems. Feel free to reach out if there is a potential fit.*
 
-My research interests broadly lie in foundation models (including LLMs and VLMs) for embodied agents and cyber-physical systems (CPS), with emphasis on safety evaluation, CAD/CAM automation, formal verification, and reinforcement learning for real-world deployment.
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
