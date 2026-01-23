@@ -49,6 +49,34 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 </div>
 </div>
 
+# 🔧 Projects
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Research Project</div>
+      <img src='images/Sentinel_framework.png' alt="SENTINEL" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+**SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents**
+
+Simon Sinong Zhan, Yao Liu, Philip Wang, Zinan Wang, Qineng Wang, Zhian Ruan, **Xiangyu Shi**, Xinyu Cao, Frank Yang, Kangrui Wang, Huajie Shao, Manling Li, Qi Zhu
+*Contributor / Co-author.*
+
+[Website](https://nu-ideas-lab.github.io/Sentinel/) \| 
+[Paper](https://arxiv.org/abs/2510.12985) \| 
+[Code](Coming soon)
+
+  </div>
+</div>
+
+
+
+
+
   
 # 🎖 Honors and Awards
 - *2024:* Computer Engineering Ph.D. Fellowship (NU)
