@@ -39,16 +39,28 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 
 **Xiangyu Shi**, Junyang Ding, Xu Zhao, Sinong Zhan, Payal Mohapatra, Daniel Quispe, Kojo Welbeck, Jian Cao, Wei Chen, Ping Guo, Qi Zhu
 
-<!---[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
 [Paper](http://arxiv.org/abs/2601.12641) \| [Code](https://github.com/JasonShii/STEP-LLM)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 (Accepted)</div><img src='images/Delay-RL_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Belief-Based Offline Reinforcement Learning for Delay-Robust Policy Optimization**
+
+Simon Sinong Zhan, Qingyuan Wu, Philip Wang, Frank Yang, **Xiangyu Shi**, Chao Huang, Qi Zhu 
+[Paper](https://openreview.net/pdf?id=3C1U86DcW4))
+
+</div>
+</div>
+
+
+<!---[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+-->
 # 🔧 Projects
 
 <div class='paper-box'>
