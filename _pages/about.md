@@ -50,7 +50,8 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 **Belief-Based Offline Reinforcement Learning for Delay-Robust Policy Optimization**
 
 Simon Sinong Zhan, Qingyuan Wu, Philip Wang, Frank Yang, **Xiangyu Shi**, Chao Huang, Qi Zhu 
-[Paper](https://openreview.net/pdf?id=3C1U86DcW4))
+
+[Paper](https://openreview.net/pdf?id=3C1U86DcW4)
 
 </div>
 </div>
