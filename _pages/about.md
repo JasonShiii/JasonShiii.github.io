@@ -79,7 +79,7 @@ Simon Sinong Zhan, Qingyuan Wu, Philip Wang, Frank Yang, **Xiangyu Shi**, Chao H
 Simon Sinong Zhan, Yao Liu, Philip Wang, Zinan Wang, Qineng Wang, Zhian Ruan, **Xiangyu Shi**, Xinyu Cao, Frank Yang, Kangrui Wang, Huajie Shao, Manling Li, Qi Zhu
 *Contributor / Co-author.*
 
-[Website](https://nu-ideas-lab.github.io/Sentinel/) \| 
+[Website](https://nu-ideas-lab.github.io/SENTINEL/) \| 
 [Paper](https://arxiv.org/abs/2510.12985) \| 
 [Code](Coming soon)
 
