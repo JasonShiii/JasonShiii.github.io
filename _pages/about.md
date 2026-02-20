@@ -39,7 +39,7 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 
 **Xiangyu Shi**, Junyang Ding, Xu Zhao, Sinong Zhan, Payal Mohapatra, Daniel Quispe, Kojo Welbeck, Jian Cao, Wei Chen, Ping Guo, Qi Zhu
 
-[Paper](http://arxiv.org/abs/2601.12641) \| [Code](https://github.com/JasonShii/STEP-LLM)
+[Paper](http://arxiv.org/abs/2601.12641) \| [Code](https://github.com/JasonShiii/STEP-LLM/)
 
 </div>
 </div>
