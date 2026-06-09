@@ -32,14 +32,14 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2026 (Accepted)</div><img src='images/STEP-LLM_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2026</div><img src='images/STEP-LLM_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models**
 
 **Xiangyu Shi**, Junyang Ding, Xu Zhao, Sinong Zhan, Payal Mohapatra, Daniel Quispe, Kojo Welbeck, Jian Cao, Wei Chen, Ping Guo, Qi Zhu
 
-[Paper](http://arxiv.org/abs/2601.12641) \| [Code](https://github.com/JasonShiii/STEP-LLM/)
+[Paper](https://past.date-conference.com/proceedings-archive/2026/DATA/1319.pdf) \| [Code](https://github.com/JasonShiii/STEP-LLM/)
 
 </div>
 </div>
