@@ -32,7 +32,7 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2026</div><img src='images/STEP-LLM_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2026 (Accepted)</div><img src='images/STEP-LLM_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models**
