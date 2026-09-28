@@ -51,7 +51,7 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 
 Simon Sinong Zhan, Philip Wang, Yao Liu, Yiyan Peng, Zinan Wang, Qineng Wang, Zhian Ruan, **Xiangyu Shi**, Xinyu Cao, Frank Yang, Zhenyang Ni, Kangrui Wang, Ruohan Zhang, Huajie Shao, Manling Li, Qi Zhu
 
-[Paper](https://arxiv.org/abs/2510.12985) | [Website](https://nu-ideas-lab.github.io/SENTINEL/) | [Code](https://github.com/NU-IDEAS-Lab/SENTINEL)
+[Paper](https://arxiv.org/abs/2510.12985) \| [Website](https://nu-ideas-lab.github.io/SENTINEL/) \| [Code](https://github.com/NU-IDEAS-Lab/SENTINEL)
 
 </div>
 </div>
