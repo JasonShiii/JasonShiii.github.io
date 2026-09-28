@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Xiangyu Shi. I am a second-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. 
+This is Xiangyu Shi. I am a third-year Ph.D. candidate in Computer Engineering at Northwestern University (NU) starting in Fall 2024, advised by [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2024. 
 
 My research interests broadly lie in foundation models (including LLMs and VLMs) for embodied agents and cyber-physical systems (CPS), with emphasis on safety evaluation, CAD/CAM automation, formal verification, and reinforcement learning for real-world deployment.
 
-💼 *I am currently seeking research internships for Summer 2026, with a focus on foundation models (including LLMs and VLMs) for embodied agents and interactive systems. Feel free to reach out if there is a potential fit.*
+💼 *I am currently seeking research internships for Summer 2027 with a focus on foundation models (including LLMs and VLMs) for embodied agents and interactive systems. Feel free to reach out if there is a potential fit.*
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -44,6 +44,18 @@ My research interests broadly lie in foundation models (including LLMs and VLMs)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 (Evaluations & Datasets)</div><img src='images/Sentinel_framework.png' alt="SENTINEL framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents**
+
+Simon Sinong Zhan, Philip Wang, Yao Liu, Yiyan Peng, Zinan Wang, Qineng Wang, Zhian Ruan, **Xiangyu Shi**, Xinyu Cao, Frank Yang, Zhenyang Ni, Kangrui Wang, Ruohan Zhang, Huajie Shao, Manling Li, Qi Zhu
+
+[Paper](https://arxiv.org/abs/2510.12985) | [Website](https://nu-ideas-lab.github.io/SENTINEL/) | [Code](https://github.com/NU-IDEAS-Lab/SENTINEL)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 (Accepted)</div><img src='images/Delay-RL_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,12 +68,22 @@ Simon Sinong Zhan, Qingyuan Wu, Philip Wang, Frank Yang, **Xiangyu Shi**, Chao H
 </div>
 </div>
 
+## Preprints
+
+**LLM-Aided Design for Manufacturing: A Multi-Agent System for Intent-Preserving Redesign of CAD for Improved Manufacturability** (2026)  
+Kojo Welbeck, **Xiangyu Shi**, Zahra Sadeghi, Qi Zhu, Ping Guo  
+[Paper](https://arxiv.org/abs/2609.05559)
+
+**Smart Sheet Smith: From Engineering Drawing to Bending Sequence via Reference-Free, Self-Verifying Multi-Agent Process Planning** (2026)  
+Zahra Sadeghi, Ashton Dy, **Xiangyu Shi**, Kojo Welbeck, Jian Cao, Wei Chen, Qi Zhu, Jamie Coble, Ping Guo  
+[Paper](https://ssrn.com/abstract=7118666)
 
 <!---[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 -->
+<!---
 # 🔧 Projects
 
 <div class='paper-box'>
@@ -85,7 +107,7 @@ Simon Sinong Zhan, Yao Liu, Philip Wang, Zinan Wang, Qineng Wang, Zhian Ruan, **
 
   </div>
 </div>
-
+-->
 
 
 
@@ -101,9 +123,9 @@ Simon Sinong Zhan, Yao Liu, Philip Wang, Zinan Wang, Qineng Wang, Zhian Ruan, **
 - *2024.09 - Present*, Ph.D., Northwestern University, Evanston. 
 - *2020.09 - 2024.06*, Undergraduate, Chu Kochen Honors College, Zhejiang University, Hangzhou. 
 
-# 💬 Invited Talks
-<!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!--- # 💬 Invited Talks
+*2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-<!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
+- *2026.06 - 2026.09*, Foundation Models Intern, Bosch, Sunnyvale, CA.
